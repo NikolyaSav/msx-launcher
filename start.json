@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "title": "🌙 Мои приложения",
+      "items": [
+        {
+          "title": "Lampa",
+          "icon": "https://img.icons8.com/ios-filled/100/lamp.png",
+          "link": "https://lampa.mx"
+        },
+        {
+          "title": "YouTube TV",
+          "icon": "https://img.icons8.com/ios-filled/100/youtube-play.png",
+          "link": "https://youtube.com/tv"
+        }
+      ]
+    }
+  ]
+}
